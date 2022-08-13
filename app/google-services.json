@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "874709522714",
+    "firebase_url": "https://smartwatertank-71f57-default-rtdb.firebaseio.com",
+    "project_id": "smartwatertank-71f57",
+    "storage_bucket": "smartwatertank-71f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874709522714:android:bbe0e5e4454b00831df4a3",
+        "android_client_info": {
+          "package_name": "com.example.smartwatertank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874709522714-5p1ud7iohl4qpptog8iee84v5i8n0ctp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANAwTUHi2wLpltvzzxfoJWK2NIZb6Rh9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874709522714-5p1ud7iohl4qpptog8iee84v5i8n0ctp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874709522714:android:f2e2ebb8b651bdaf1df4a3",
+        "android_client_info": {
+          "package_name": "com.example.smartwatertankv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874709522714-5p1ud7iohl4qpptog8iee84v5i8n0ctp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANAwTUHi2wLpltvzzxfoJWK2NIZb6Rh9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874709522714-5p1ud7iohl4qpptog8iee84v5i8n0ctp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
