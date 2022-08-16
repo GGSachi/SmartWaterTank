@@ -3,6 +3,7 @@ package com.example.smartwatertank;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Patterns;
 import android.view.View;
@@ -39,9 +40,13 @@ public class SignInActivity extends AppCompatActivity {
 
     }
     public void txtSignInForgotPasswordClicked(View v){
+        Intent intent = new Intent(this,ForgotPasswordActivity.class);
+        startActivity(intent);
 
     }
     public void txtSignInRegisterClicked(View v){
+        Intent intent = new Intent(this,SignUpActivity.class);
+        startActivity(intent);
 
     }
     public void buttonSignInScrSignInClicked(View v){
